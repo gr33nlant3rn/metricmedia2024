@@ -986,7 +986,7 @@
 *.LongviewTimes.com
 *.LubbockTimes.com
 *.MidCityTimes.com
-https://midlandtimes.com/
+*.midlandtimes.com
 *.NEDallasNews.com
 *.NETarrantNews.com
 *.NWHoustonNews.com
